@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\include"
   ],
-  "SelectedNode": "\\board.h",
+  "SelectedNode": "\\include\\RegularPiece.h",
   "PreviewInSolutionExplorer": false
 }
